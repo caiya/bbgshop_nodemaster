@@ -1,15 +1,4 @@
-### BbgShop商城（服务端）
-
-本项目需要配合微信小程序端使用，GitHub: [https://gitee.com/cyh1231wp/bbgshop-xcx](https://gitee.com/cyh1231wp/bbgshop-xcx)
-
-
-### 本地开发环境配置
-+ 克隆项目到本地
-```
-git clone https://gitee.com/cyh1231wp/bbgshop-node
-```
-> 注意数据库字符编码为utf8mb4
-+ 更改数据库配置
+﻿更改数据库配置
   src/common/config/database.js
   
 ```
